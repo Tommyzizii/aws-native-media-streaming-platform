@@ -122,6 +122,6 @@ This project strengthened understanding of:
 ```
 
 ## Members
-Thiri Htet
-Swan Htet Aung
-Thant Zin Min
+- Thiri Htet
+- Swan Htet Aung
+- Thant Zin Min
